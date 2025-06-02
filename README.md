@@ -1,5 +1,5 @@
 # Olá, me chamo Felipe!
-### Esse Readme é para eu documentar tudo o que tô aprendnedo em Java dentro do programa ONE e no Bootcamp DIO da empresa Toonie Tours. 
+### Esse Readme é para eu documentar tudo o que tô aprendnedo em Java dentro do programa ONE.
 
 ---
 ![img_1.png](.idea/img_1.png)
@@ -30,10 +30,10 @@ Já tive contato com encapsulamento e vou e irei mostrar abaixo um exemplo do ex
 ![img_13.png](.idea/img_13.png)
 
 ---
-![img.png](src/img.png)
-![img_1.png](src/img_1.png)
-![img_2.png](src/img_2.png)
-![img_3.png](src/img_3.png)
+![img.png](ConexaoDigital/src/img.png)
+![img_1.png](ConexaoDigital/src/img_1.png)
+![img_2.png](ConexaoDigital/src/img_2.png)
+![img_3.png](ConexaoDigital/src/img_3.png)
 
 # Aprendendo o conceito de herança, classe mãe/filha e sobreescrita(@override).
 
