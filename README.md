@@ -50,4 +50,4 @@ No exemplo acima, a classe mãe sería a classe 'Titulo' e filhas seriam 'Filme'
 ## Override
 Indica um novo método para uma mesma variável, como deixei nos exemplos acima (imagens).
 
-----
+---
