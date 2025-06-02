@@ -2,7 +2,7 @@
 ### Esse Readme é para eu documentar tudo o que tô aprendnedo em Java dentro do programa ONE e no Bootcamp DIO da empresa Toonie Tours. 
 
 ---
-![img_1.png](ConexaoDigital\.idea/img_1.png)
+![img_1.png](.idea/img_1.png)
 
 ---
 ![img_2.png](.idea/img_2.png)
