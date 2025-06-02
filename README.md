@@ -2,16 +2,16 @@
 ### Esse Readme é para eu documentar tudo o que tô aprendnedo em Java dentro do programa ONE.
 
 ---
-![img_1.png](.idea/img_1.png)
+![img_122.png](ConexaoDigital/src/img_122.png)
 
 ---
-![img_2.png](.idea/img_2.png)
+![img_22.png](ConexaoDigital/src/img_22.png)
 
 Dentro dessa pasta fica todo o meu estudo de lógica, como operadores aritméticos, condicionais, laços de repetição etc.
 Segue um exemplo de um código e seu resultado abaixo 👇
-![img_9.png](.idea/img_9.png)
+![img_99.png](ConexaoDigital/src/img_99.png)
 ---
-![img_10.png](.idea/img_10.png)
+![img_101.png](ConexaoDigital/src/img_101.png)
 
 Esses foram alguns dos exercícios de lógica que eu fiz que estão dentro dessa pasta.
 
@@ -21,13 +21,13 @@ Que consiste em uma série de mini conceitos dentro do próprio conceito de obje
 
 Já tive contato com encapsulamento e vou e irei mostrar abaixo um exemplo do exercício que fiz com esse encapsulamento. 👇
 
-![img_11.png](.idea/img_11.png)
+![img_111.png](ConexaoDigital/src/img_111.png)
 
 ---
-![img_12.png](.idea/img_12.png)
+![img_123.png](ConexaoDigital/src/img_123.png)
 
 ---
-![img_13.png](.idea/img_13.png)
+![img_133.png](ConexaoDigital/src/img_133.png)
 
 ---
 ![img.png](ConexaoDigital/src/img.png)
