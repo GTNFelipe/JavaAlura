@@ -9,7 +9,9 @@
 
 Dentro dessa pasta fica todo o meu estudo de lógica, como operadores aritméticos, condicionais, laços de repetição etc.
 Segue um exemplo de um código e seu resultado abaixo 👇
+
 ![img_99.png](ConexaoDigital/src/img_99.png)
+
 ---
 ![img_101.png](ConexaoDigital/src/img_101.png)
 
@@ -38,7 +40,7 @@ Já tive contato com encapsulamento e vou e irei mostrar abaixo um exemplo do ex
 # Aprendendo o conceito de herança, classe mãe/filha e sobreescrita(@override).
 
 ## Herança
-consiste em ter uma única classe com várias variaveis que outras classes tem em comum.
+Consiste em ter uma única classe com várias variaveis que outras classes tem em comum.
 
 ## Exemplo 
 Tenho uma classe 'Titulo', uma 'Filme' e uma 'Serie', filmes e séries são títulos
