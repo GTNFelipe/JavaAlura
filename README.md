@@ -1,7 +1,6 @@
 # Olá, me chamo Felipe!
 ### Esse Readme é para eu documentar tudo o que tô aprendendo em Java dentro do programa ONE.
 
----
 ![img_122.png](ConexaoDigital/src/DigitalConexao/images/img_122.png)
 
 ---
@@ -12,7 +11,6 @@ Segue um exemplo de um código e seu resultado abaixo 👇
 
 ![img_99.png](ConexaoDigital/src/DigitalConexao/images/img_99.png)
 
----
 ![img_101.png](ConexaoDigital/src/DigitalConexao/images/img_101.png)
 
 Esses foram alguns dos exercícios de lógica que eu fiz que estão dentro dessa pasta.
