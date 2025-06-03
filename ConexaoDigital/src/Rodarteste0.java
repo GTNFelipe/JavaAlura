@@ -1,3 +1,6 @@
+
+import teste.modelos.*;
+
 public class Rodarteste0 {
     public static void main(String[] args) {
         ContaBancaria contaBancaria = new ContaBancaria();

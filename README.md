@@ -61,3 +61,10 @@ Indica um novo método para uma mesma variável, como deixei nos exemplos acima 
 ![img1.png](ConexaoDigital/src/DigitalConexao/images/img1.png)
 
 ---
+# Exercício usando polimorfismo, herança, extends e @Override. 👇
+![img.png](ConexaoDigital/src/DigitalConexao/images/desafio1.png) 
+
+![img_1.png](ConexaoDigital/src/DigitalConexao/images/polimorfismo.png)
+
+---
+
