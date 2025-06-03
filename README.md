@@ -1,5 +1,5 @@
 # Olá, me chamo Felipe!
-### Esse Readme é para eu documentar tudo o que tô aprendnedo em Java dentro do programa ONE.
+### Esse Readme é para eu documentar tudo o que tô aprendendo em Java dentro do programa ONE.
 
 ---
 ![img_122.png](ConexaoDigital/src/DigitalConexao/images/img_122.png)
