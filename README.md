@@ -18,7 +18,7 @@ Esses foram alguns dos exercícios de lógica que eu fiz que estão dentro dessa
 ---
 Agora partindo para um estudo mais desafiador, tenho visto programação orientada a objetos. Que consiste em uma série de mini conceitos dentro do próprio conceito de objeto. E nesse momento ainda estou aprendendo os conceitos.
 
-Já tive contato com encapsulamento e vou e irei mostrar abaixo um exemplo do exercício que fiz com esse encapsulamento. 👇
+Já tive contato com encapsulamento e irei mostrar abaixo um exemplo do exercício que fiz com esse encapsulamento. 👇
 
 ![img_111.png](ConexaoDigital/src/DigitalConexao/images/img_111.png)
 
