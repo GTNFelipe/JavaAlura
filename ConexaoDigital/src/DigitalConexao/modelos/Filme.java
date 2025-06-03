@@ -1,4 +1,5 @@
 package DigitalConexao.modelos;
+import DigitalConexao.modelos.Titulo;
 
 public class Filme extends Titulo {
     private String diretor;

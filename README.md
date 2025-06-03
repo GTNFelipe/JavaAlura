@@ -54,7 +54,7 @@ Indica um novo método para uma mesma variável, como deixei nos exemplos acima 
 
 ---
 
-# Para não criar mais de um método, usei a super classe (classe mãe 'Titulo') para fazer um método que inclua todas as classes existentes dentro da super classe. 
+# Para não criar mais de um método, usei a super classe (classe mãe 'Titulo') para fazer um método que inclua todas as classes existentes dentro da super classe. O nome disso é Desgine de classe 
 
 👇
 

@@ -1,4 +1,5 @@
 package DigitalConexao.modelos;
+import DigitalConexao.modelos.Titulo;
 
 public class Serie extends Titulo {
     private int temporada;
