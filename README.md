@@ -16,8 +16,7 @@ Segue um exemplo de um código e seu resultado abaixo 👇
 Esses foram alguns dos exercícios de lógica que eu fiz que estão dentro dessa pasta.
 
 ---
-##### Agora partindo para um estudo mais desafiador, tenho visto programação orientada a objetos.
-Que consiste em uma série de mini conceitos dentro do próprio conceito de objeto. E nesse momento ainda estou aprendendo os conceitos.
+Agora partindo para um estudo mais desafiador, tenho visto programação orientada a objetos. Que consiste em uma série de mini conceitos dentro do próprio conceito de objeto. E nesse momento ainda estou aprendendo os conceitos.
 
 Já tive contato com encapsulamento e vou e irei mostrar abaixo um exemplo do exercício que fiz com esse encapsulamento. 👇
 
