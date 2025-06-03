@@ -1,3 +1,4 @@
+import DigitalConexao.calculos.CalculadoraDeTempo;
 import DigitalConexao.modelos.Filme;
 import DigitalConexao.modelos.Serie;
 
@@ -25,6 +26,20 @@ public class Principal {
         serie.setEpisodioPOrTemporada(20);
         serie.setMinutosPOrEpisodio(40);
         System.out.println("Duração para maratonar House: " + serie.getDuracaoEmMinutos() + " minutos.");
+
+        Filme outroFilme = new Filme();
+        outroFilme.setNome("Avatar");
+        outroFilme.setAnoDeLancamento(2023);
+        outroFilme.setDuracaoEmMinutos(200);
+
+        CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
+        calculadora.inclui(meuFilme);
+        calculadora.inclui(outroFilme);
+        calculadora.inclui(serie);
+        System.out.println(calculadora.getTempoTotal());
+
+
+
 
 
 
