@@ -54,17 +54,24 @@ Indica um novo método para uma mesma variável, como deixei nos exemplos acima 
 
 ---
 
-# Para não criar mais de um método, usei a super classe (classe mãe 'Titulo') para fazer um método que inclua todas as classes existentes dentro da super classe. O nome disso é Desgine de classe 
+## Para não criar mais de um método, usei a super classe (classe mãe 'Titulo') para fazer um método que inclua todas as classes existentes dentro da super classe. O nome disso é Desgine de classe 
 
 👇
 
 ![img1.png](ConexaoDigital/src/DigitalConexao/images/img1.png)
 
 ---
-# Exercício usando polimorfismo, herança, extends e @Override. 👇
+## Exercício usando polimorfismo, herança, extends e @Override. 👇
 ![img.png](ConexaoDigital/src/DigitalConexao/images/desafio1.png) 
 
 ![img_1.png](ConexaoDigital/src/DigitalConexao/images/polimorfismo.png)
+
+---
+## Aprendnedo o conceito de interface. Consiste em uma implementação de uma "classe" para que se use um método comum à todas as classes, um axemplo abaixo (essa "classe", se chama interface): 👇
+
+![classificavel.png](ConexaoDigital/src/DigitalConexao/images/classificavel.png)
+
+![interface.png](ConexaoDigital/src/DigitalConexao/images/interface.png)
 
 ---
 

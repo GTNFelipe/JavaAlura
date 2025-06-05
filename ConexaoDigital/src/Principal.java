@@ -1,4 +1,6 @@
 import DigitalConexao.calculos.CalculadoraDeTempo;
+import DigitalConexao.calculos.FiltroRecomendacao;
+import DigitalConexao.modelos.Episodio;
 import DigitalConexao.modelos.Filme;
 import DigitalConexao.modelos.Serie;
 
@@ -38,6 +40,15 @@ public class Principal {
         calculadora.inclui(outroFilme);
         calculadora.inclui(serie);
         System.out.println(calculadora.getTempoTotal());
+
+        FiltroRecomendacao filtro = new FiltroRecomendacao();
+        filtro.filtra(meuFilme);
+
+        Episodio episodio = new Episodio();
+        episodio.setNumero(1);
+        episodio.setNome("House");
+        episodio.setTotalVisualizacoes(300);
+        filtro.filtra(episodio);
 
 
 
